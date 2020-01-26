@@ -170,6 +170,10 @@ p {
   margin: 20px 10px;
 }
 
+.footer__link {
+  color: #111111;
+}
+
 @media (max-width: 1028px) {
 
   #title {
